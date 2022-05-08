@@ -1,4 +1,4 @@
-# Holux-Real-State-Website
+# Holux-Real-Estate-Website
 
 ## ALI SAMIR
 
